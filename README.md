@@ -1,7 +1,8 @@
 # GIT
 Learning GIT
 <br>
-GIT - It is a tool or software which works on computer systems.
+GIT 
+- It is a tool or software which works on computer systems.
 
 GIT HUB 
 - It is a website that allows developers to store and manage their code using git.
